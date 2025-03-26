@@ -100,7 +100,6 @@ nav {
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--text-primary);
-    color: aqua;
 }
 
 .nav-links {
@@ -128,8 +127,8 @@ nav {
     background: none;
     border: none;
     font-size: 1.5rem;
-    color: #2c3e50;
     cursor: pointer;
+    color: aqua;
 }
 
 /* Hero Section */
