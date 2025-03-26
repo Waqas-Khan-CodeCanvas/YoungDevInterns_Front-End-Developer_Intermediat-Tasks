@@ -104,13 +104,13 @@ youngDevInterns-task-01/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Waqas-Khan-CodeCanvas/youngDevInterns-task-01.git
+   https://github.com/Waqas-Khan-CodeCanvas/YoungDevInterns_Front-End-Developer_Intermediat-Tasks.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd youngDevInterns-task-01
+   cd YoungDevInterns_Front-End-Developer_Intermediat-Tasks
    ```
 
 3. Open `index.html` in your web browser to view the application
@@ -133,6 +133,6 @@ youngDevInterns-task-01/
 
 ### 🌟 Feel free to explore, fork, or contribute!
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/Waqas-Khan-CodeCanvas/youngDevInterns-task-01)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/Waqas-Khan-CodeCanvas/)
 
 </div>
