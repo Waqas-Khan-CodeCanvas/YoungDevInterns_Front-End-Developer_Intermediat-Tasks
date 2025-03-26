@@ -8,7 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-Integration-blue?style=for-the-badge)
 
-![Live Preview](https://img.shields.io/badge/Live%20Preview-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)<br>
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://youngdveinterns.netlify.app/)
+<br>
 [![GitHub stars](https://img.shields.io/github/stars/Waqas-Khan-CodeCanvas/youngDevInterns-task-01?style=social)](https://github.com/Waqas-Khan-CodeCanvas/youngDevInterns-task-01) 
 
 
