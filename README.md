@@ -1,4 +1,5 @@
-# YoungDevInterns Front-End Tasks
+# YoungDevInterns Front-End Tasks 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05c82cf1-2bbe-449e-90b8-57cf20f638af/deploy-status)](https://app.netlify.com/sites/youngdveinterns/deploys)
 
 <div align="center">
 
@@ -7,19 +8,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-Integration-blue?style=for-the-badge)
 
-[![GitHub stars](https://img.shields.io/github/stars/Waqas-Khan-CodeCanvas/youngDevInterns-task-01?style=social)](https://github.com/Waqas-Khan-CodeCanvas/youngDevInterns-task-01)
+![Live Preview](https://img.shields.io/badge/Live%20Preview-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)<br>
+[![GitHub stars](https://img.shields.io/github/stars/Waqas-Khan-CodeCanvas/youngDevInterns-task-01?style=social)](https://github.com/Waqas-Khan-CodeCanvas/youngDevInterns-task-01) 
+
 
 </div>
-
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Project Overview](#-project-overview)
-- [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
-- [Key Features](#-key-features)
-- [Getting Started](#-getting-started)
-- [Connect](#-connect)
 
 ## 🎯 About
 
