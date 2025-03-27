@@ -114,8 +114,6 @@ nav {
     color: var(--text-primary);
     font-weight: 500;
     transition: color 0.3s ease;
-    padding-bottom: 4px;
-    border-bottom: 2px solid aqua;
 }
 
 .nav-links a:hover {
