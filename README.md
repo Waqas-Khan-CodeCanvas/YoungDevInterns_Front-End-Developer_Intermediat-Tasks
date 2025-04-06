@@ -127,6 +127,6 @@ youngDevInterns-task-01/
 
 ### 🌟 Feel free to explore, fork, or contribute!
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/Waqas-Khan-CodeCanvas/)
+[![Made with ❤️ by waqas khan](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/Waqas-Khan-CodeCanvas/)
 
 </div>
